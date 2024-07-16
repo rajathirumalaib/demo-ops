@@ -1,1 +1,3 @@
 touch /root/test3
+cd /root
+date
